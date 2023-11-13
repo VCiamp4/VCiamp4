@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Valentin Ciamparella!</h1>
 
 <p align="center">
-  ->Currently studying Computer Science at UNLP.
-  ->Prog
+  ->Currently studying Computer Science at UNLP. <br> 
+  ->Interested in videogame development 
 </p>
 
 <p align="center">
