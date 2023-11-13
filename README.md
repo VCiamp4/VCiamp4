@@ -17,8 +17,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VCiamp4&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak">
 </p>
 <p align="center">
-### <u>Operating Systems and Others:</u>
+    <b>Operating Systems and Others:</b>
 </p>
+
 <br>
 
 <p align="center">
@@ -30,8 +31,9 @@
 
 <br>
 <p align="center">
-### <u>Languages and Technologies:</u>
+     <b>Languages and Technologies:</b>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="25"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" height="25"/>
