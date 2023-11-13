@@ -1,11 +1,10 @@
-![vsgif_com__ 2907929](https://github.com/VCiamp4/VCiamp4/assets/66568788/18f9a927-2067-44de-8eac-f1ed039e7e0c)
-
-
 ### Hi there im Valentin Ciamparella!
 
 Im currently studying Computer Science in UNLP
 
-
+<p align="center">
+  ![vsgif_com__ 2907929](https://github.com/VCiamp4/VCiamp4/assets/66568788/18f9a927-2067-44de-8eac-f1ed039e7e0c)
+</p>
 
 
 
