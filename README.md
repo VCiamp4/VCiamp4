@@ -3,8 +3,11 @@
 Im currently studying Computer Science in UNLP
 
 <p align="center">
-  ![vsgif_com__ 2907929](https://github.com/VCiamp4/VCiamp4/assets/66568788/18f9a927-2067-44de-8eac-f1ed039e7e0c)
+  
+  ![vsgif_com__ 2907929](https://github.com/VCiamp4/VCiamp4/assets/66568788/0aabe72d-b637-4b37-93a9-4e76378554f0)
+
 </p>
+
 
 
 
