@@ -2,7 +2,6 @@
 
 <p align="center">
   ->Currently studying Computer Science at UNLP. <br> 
-  ->Interested in videogame development 
 </p>
 
 <p align="center">
